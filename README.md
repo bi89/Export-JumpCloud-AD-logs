@@ -1,2 +1,4 @@
-# export-jc-ad-log
-Export JumpCloud Agent logs from Active Directory server
+# What
+Export the JumpCloud Agent logs tool from the Active Directory server
+# Who
+JumpCloud's Organization Administrator exports logs for the JumpCloud support team.
