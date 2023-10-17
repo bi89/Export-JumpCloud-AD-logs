@@ -1,1 +1,1 @@
-ps2exe -inputFile ".\run.ps1" -outputFile ".\run.exe" -requireAdmin -description "Export the JumpCloud Agent logs tool from the Active Directory server" -version "0.1" -title "Run Export Log"
+ps2exe -inputFile ".\run.ps1" -outputFile ".\Export_JC_AD_Log.exe" -requireAdmin -description "Export the JumpCloud Agent logs tool from the Active Directory server" -version "0.2" -title "Run Export Log"
